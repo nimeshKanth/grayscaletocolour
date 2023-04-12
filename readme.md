@@ -6,4 +6,4 @@
 ## Image Colorization
 ### Image colorization using different softwares require large amount of human effort, time and skill.But special type of deep learning architecture called autoencoder has made this task quiet easy. Automatic image colorization often involves the use of a class of convolutional neural networks (CNN) called autoencoders. These neural networks are able to distill the salient features of an image, and then regenerate the image based on these learned features.
 
-#### Dataset is avaliable in this drive folder Link: https://drive.google.com/file/d/1ylUV0TXh-UE0mOjdPdsMx8e3EiD6AlFF
+#### Dataset is avaliable in this drive Link: https://drive.google.com/file/d/1ylUV0TXh-UE0mOjdPdsMx8e3EiD6AlFF
